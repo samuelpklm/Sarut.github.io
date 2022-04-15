@@ -1,0 +1,14 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+> .btn {
+    position: none;
+    flex: 1 1 auto;
+  }
+
+
+  .input-group {
+    position: none; 
+}
+
+
+$form-select-focus-border-color:  $input-focus-border-color none;

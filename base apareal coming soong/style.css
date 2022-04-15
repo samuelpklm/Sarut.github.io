@@ -1,0 +1,233 @@
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box !important;
+}
+
+.attribution { 
+    font-size: 11px; text-align: center;
+ }
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+ }
+ 
+ .inputsss{
+	background-image: url(./images/icon-error.svg); 
+	background-repeat: no-repeat;
+	background-position: right;
+  background-position-x: 272px;
+  background-size: 0%;
+  background-position: absolute;
+  
+	
+ }
+ 
+
+
+ .contenedor{
+    max-width: auto;
+
+ }
+
+ .cover{
+     height: 100vh !important;
+     float: right;
+ }
+
+ .cover img.hero-desktop {
+    height: 100%;
+  }
+
+  .cover img.hero-mobile {
+    display: none;
+  }
+  
+
+ body {
+    height: 100vh;
+    min-height: 100vh;
+    
+  }
+
+
+  .izquierda{
+    background: url(./images/bg-pattern-desktop.svg);
+    background-position: start;
+ 
+    background-size: cover;
+    width: 100%;
+    font-size: 16px;
+  }
+
+  .probar{
+    height: 5% !important;
+    width: 12%;
+    margin-bottom: 50px !important;
+    position: absolute !important;
+    margin-top: 10vh !important;
+    margin-left: 10vh !important;
+  }
+
+
+
+.izquierda h1 {
+color: var(--dark);
+  font-family: inherit;
+  font-size: 3rem;
+  font-weight: 600;
+  letter-spacing: 0.5rem;
+  text-transform: uppercase;
+  line-height: 3.5rem;
+}
+
+.izquierda p{
+  max-width: 360px;
+}
+
+.btn{
+width: 5rem;
+background-image: url(./images/icon-arrow.svg);
+background-color: pink !important;
+
+background-repeat: no-repeat;
+background-position: center;
+
+}
+
+
+.input-group{
+  width: 450px !important;
+  border-radius: 50px !important;
+  position:relative !important;
+}
+
+.input-group input{
+  height: 50px;
+  border-radius: 50px !important;
+  /* border-top-left-radius: 50px !important;
+  border-bottom-left-radius: 50px !important; */
+  text-align: start;
+  padding-left: 1rem !important;
+  border-right: 0 !important;
+}
+
+
+.input-group button {
+  height: 50px;
+  border-radius: 50px !important;
+  transform: translateX(-60px) !important;
+}
+
+
+
+
+
+
+.container{
+  padding:3rem !important;
+  padding-left: 6rem !important;
+  height: 100vh;
+  justify-content: center !important;
+}
+
+.error-input{
+  color: red;
+  margin-left: 2rem !important ;
+  font-size: 13px;
+  transform: translateY(-10px);
+  display: block;
+}
+
+
+@media screen and (max-width: 1000px) {
+
+  .contenido{
+    flex-direction: column;
+    flex-direction: column-reverse;
+  }
+
+  .cover{
+    margin-top: 15vh !important;
+    height: auto !important;
+    width: 100%;
+  
+  }
+
+  .cover img.hero-desktop{
+   display: none !important;
+    
+  }
+
+  .cover img.hero-mobile {
+    display: block;
+    width: 100%;
+  }
+
+  .izquierda{
+    background: rgb(255, 249, 249);
+    align-items: center !important;
+    font-size: 10px;
+  }
+
+  .izquierda p{
+    max-width: 260px;
+  }
+
+  .izquierda h1 {
+      font-size: 2rem;
+      font-weight: 300;
+      line-height: 2rem;
+    }
+
+
+
+  .container{
+    margin-top: 1rem !important;
+    align-items: center !important;
+    text-align: center;
+    justify-content: start !important;
+
+    padding: 0 !important;
+  }
+
+  form{
+    transform: translateX(10px) !important;
+  }
+
+  
+  
+  .probar{
+    margin-top: 5vh !important;
+    height: 7% !important;
+    width: 50%  !important;
+    margin-left: 5vh !important;
+  }
+
+  .input-group{
+    width: 260px !important;
+
+  }
+
+  .input-group input{
+    font-size: 12px;
+    height: 30px !important;
+  }
+
+  .input-group button {
+    height: 30px !important; 
+    width: 50px;
+    transform: translateX(-20px) !important;
+  }
+
+  .inputsss{
+
+   background-position-x: 160px !important; 
+    
+    
+   }
+  
+
+
+
+}
+
