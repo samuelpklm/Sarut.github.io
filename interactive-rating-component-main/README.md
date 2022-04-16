@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Ranting component](./images/screenshot.jpg)
+![Ranting component](./design/desktop-preview.jpg)
 
 
 
