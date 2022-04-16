@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repository](https://github.com/samuelpklm/Sarut.github.io/tree/main/article-preview-component-master)
+- Live Site URL: [Article component](https://prismatic-youtiao-0bb5b6.netlify.app)
 
 ## My process
 
