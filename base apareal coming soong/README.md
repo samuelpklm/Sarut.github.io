@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/samuelpklm/samuelpklm.github.io.git
-- Live Site URL: https://samuelpklm.github.io/
+- Live Site URL:https://sweet-llama-075927.netlify.app/
 
 ## My process
 
