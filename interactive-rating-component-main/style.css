@@ -1,0 +1,238 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.contenido{
+   border-radius: 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: block;
+}
+
+body{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: hsl(216, 12%, 8%);
+}
+
+.estrella{
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    background-image: url(./images/icon-star.svg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgb(38, 47, 56);
+    margin-bottom: 35px;
+}
+
+p{
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+
+.puntuacion{
+   display: flex;
+   justify-content: space-between;
+   font-size: 15px !important;
+   margin-bottom: 30px;
+}
+
+.puntuacion span{
+    color: rgba(255, 255, 255, 0.5);
+   
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(38, 47, 56);
+ 
+}
+
+.puntuacion span:hover{
+    background-color: hsl(217, 12%, 63%);
+    color: white;
+ 
+}
+
+ a{
+    text-decoration: none;
+ 
+}
+
+button{
+    cursor: pointer;
+    
+}
+
+button:active{
+    background-color: white !important;
+    color: rgb(252, 118, 19) !important;
+}
+
+
+.contenido{
+    max-width: 412px;
+    padding-left: 30px;
+    padding-right: 37px ;
+    background-color:  rgb(33, 40, 50);
+}
+
+.contenido h1{
+    color: white;
+    margin-bottom: 22px;
+}
+
+.contenido p{
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.contenido button{
+    color: white;
+    background-color: rgb(252, 118, 19);
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+    font-size: 15px;
+    flex: 1;
+    border: 0px;
+    width: 100%;
+    height: 45px;
+    border-radius: 50px;
+
+}
+
+/* Parte 2 */ /* Parte 2 */ /* Parte 2 */   /* Parte 2 */   /* Parte 2 */
+/* Parte 2 */   /* Parte 2 */   /* Parte 2 */   /* Parte 2 */
+/* Parte 2 */   /* Parte 2 */   /* Parte 2 */   /* Parte 2 */
+
+.contenido-2{
+    border-radius: 25px;
+     padding-top: 43px;
+     padding-bottom: 30px;
+     display: none;
+
+     max-width: 412px;
+     padding-left: 30px;
+     padding-right: 37px ;
+     background-color:  rgb(33, 40, 50);
+
+     align-items: center;
+     flex-direction: column;
+ }
+
+ .telefono{
+     width: 175px;
+     height: 115px;
+     background-image: url(./images/illustration-thank-you.svg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center center;
+     margin-bottom: 30px;
+ }
+
+ .rating{
+     color: rgb(251, 119, 19);
+     background-color: rgb(38, 47, 56);
+     width: 195px;
+     height: 30px;
+     text-align: center;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     border-radius: 50px;
+     margin-bottom: 38px;
+ }
+
+
+.contenido-2 h1{
+    color: white;
+    margin-bottom: 22px;
+}
+
+.contenido-2 p{
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.contenido-2 button{
+    color: white;
+    background-color: rgb(252, 118, 19);
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+    font-size: 15px;
+    flex: 1;
+    border: 0px;
+    width: 100%;
+    height: 45px;
+    border-radius: 50px;
+}
+
+.orange{
+    background-color: rgb(252, 118, 19) !important; 
+    color: white !important;
+}
+
+.gray{
+    background-color: rgb(38, 47, 56) !important;
+}
+
+.attribution {
+        font-size: 11px; text-align: center; 
+        color: white;
+    }
+.attribution a {
+        color: hsl(228, 45%, 44%); 
+    }
+
+
+@media screen and (max-width: 450px) {
+
+    .contenido{
+        
+         padding-top: 22px;
+         padding-bottom: 30px;
+         max-width: 230px;
+         padding-left: 20px;
+         padding-right: 30px ;
+     }  
+
+     .contenido-2{
+        padding-top: 22px;
+        padding-bottom: 30px;
+        max-width: 230px;
+        padding-left: 20px;
+        padding-right: 30px ;
+     }
+
+     .puntuacion span{  
+        width: 30px;
+        height: 30px;
+     
+    }
+
+    p{
+        font-size: 13px;   
+    }
+
+    .rating{
+        margin-bottom: 20px;
+    }
+
+    .contenido-2 h1{
+        margin-bottom: 16px;
+    }
+
+    .contenido-2 p{
+        text-align: center;
+        margin-bottom: 0px;
+    }
+
+}
