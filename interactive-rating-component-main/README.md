@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repositorio](https://github.com/samuelpklm/Sarut.github.io/tree/main/interactive-rating-component-main)
+- Live Site URL: [Rating interactive component main](https://visionary-salamander-ba16ff.netlify.app)
 
 ## My process
 
