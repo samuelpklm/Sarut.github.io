@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Faq-accordion-card-main](https://github.com/samuelpklm/Sarut.github.io/edit/main/faq-accordion-card-main)
+- Live Site URL: [Faq-accordion-card-main](https://zingy-rugelach-7734b2.netlify.app/)
 
 ## My process
 
