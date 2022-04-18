@@ -1,0 +1,48 @@
+
+  .attribution {
+       font-size: 11px; text-align: center;
+     }
+  .attribution a {
+       color: hsl(228, 45%, 44%); 
+    }
+
+body{
+    min-height: 100vh;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.contenido{
+    width: 920px;
+    min-height: 513px;
+    display: flex;
+    border: 1px solid;
+}
+
+.izquierda{
+    min-width: 430px;
+    border: 1px solid;
+    border-color: blue;
+    background-image: url(./images/bg-pattern-desktop.svg), url(./images/illustration-woman-online-desktop.svg);
+    background-size: 170%, 100%;
+    background-position: bottom, center center;
+    
+    
+    background-repeat: no-repeat;
+    background-position-x: -360px, -60px;
+    background-position-y: -110px, 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+ .izquierda img{
+   
+   padding-top: 130px;
+   transform: translateX(-225px);
+  
+} 
