@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Faq acordion](design./desktop-design.jpg)
+![Faq acordion](./design/desktop-design.jpg)
 
 
 ### Links
@@ -47,7 +47,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
--Jquery
+- Jquery
 
 
 ### What I learned
@@ -64,7 +64,7 @@ I learned to make animation with Jquery, and to make html structure easily adapt
 
 - Website - [Samuel Rodriguez](https://github.com/samuelpklm)
 - Frontend Mentor - [@samuelpklm](https://www.frontendmentor.io/profile/samuelpklm)
-- Email - [@Samuel Rodriguez](samuelr76@gmail.com)
+- Email: samuelr76@gmail.com
 
 ## Acknowledgments
 
