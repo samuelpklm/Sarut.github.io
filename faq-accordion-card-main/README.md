@@ -68,4 +68,4 @@ I learned to make animation with Jquery, and to make html structure easily adapt
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Grateful to the mentor frontend team, for providing the artistic resources for the development of this project.
