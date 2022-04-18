@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Four card component](.design/desktop-design.jpg)
+![Four card component](./design/desktop-design.jpg)
 
 
 ### Links
