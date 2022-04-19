@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Testimonial grid section](https://github.com/samuelpklm/Sarut.github.io/tree/main/testimonials-grid-section-main)
+- Live Site URL: [Add live site URL here](https://tourmaline-bienenstitch-6c84e7.netlify.app/)
 
 ## My process
 
