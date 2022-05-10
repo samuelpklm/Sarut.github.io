@@ -1,0 +1,155 @@
+/* Atribuccion  */
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+/* Atribuccion  */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row{
+    display: flex;
+    --bs-gutter-x: 0rem !important;
+}
+
+.row > div {
+	flex: 1;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0 !important;
+	opacity: 0.7;
+}
+
+ul li {
+	line-height: 20px;
+}
+
+.card1{
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+}
+
+.card1 .card-title{
+    color: rgb(66, 171, 171) !important;
+    padding-bottom: 1rem;
+}
+
+.card1 strong{
+    color: rgb(195, 212, 107) !important;
+}
+
+.card1 .card-text{
+    color: rgb(178, 182, 190);
+}
+
+.card2{
+    padding-left: 1rem !important;
+    background-color: rgb(43, 179, 177) !important;
+    border-top-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius:  0px !important;
+}
+
+
+
+.card2 .card-title{
+    padding-top: 1rem !important;
+    margin-bottom: 20px !important;
+}
+
+.per-month{
+    transform: translateY(-5px);
+    opacity: 0.7;
+}
+
+.card2 p{
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+
+button{
+    margin: 0 !important;
+    background-color: rgb(191, 223, 50) !important;
+    border: 0 !important;
+    box-shadow: 0 5px 10px 10px rgba(0, 0, 0, 0.05) !important;
+}
+
+.boton{
+align-self: stretch !important;
+padding-right: 3rem;
+padding-bottom: 1rem;
+}
+
+.hstack > button{
+   flex: 1;
+}
+
+.card3{
+    background-color: rgb(74, 190, 189) !important;
+    padding-left: 1rem !important;
+    border-top-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+    border-bottom-left-radius:  0px !important;
+}
+
+body{
+    background-color: rgb(230  , 239, 246) !important;
+    display: flex;
+	align-items: center;
+	justify-content: center;
+    flex-direction: column;
+    margin: 0;
+	min-height: 100vh;
+}
+
+.card3 .card-title{
+    padding-top: 1rem !important;
+}
+
+ul{
+    font-size: 10px;
+}
+
+.card{
+    border: 0 !important;
+}
+
+
+@media only screen and (max-width: 700px){
+    .row{
+        flex-direction: column !important;
+    }
+
+    .card2{
+       
+        border-top-left-radius: 0px !important;
+        border-top-right-radius: 0px !important;
+        border-bottom-right-radius:  0px !important;
+        border-bottom-left-radius:  0px !important;
+    }
+
+    .card3{
+       
+        border-bottom-left-radius:  5px !important;
+    }
+
+    .carta-contenedor{
+        margin-top: 40px;
+    }
+    
+}
+
+.carta-contenedor{
+    box-shadow: 0 5px 10px 10px rgba(0, 0, 0, 0.05);
+}
