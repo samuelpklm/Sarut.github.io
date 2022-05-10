@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Simple grid](https://github.com/samuelpklm/Sarut.github.io/edit/main/single-price-grid-component-master)
+- Live Site URL: [Simple grid](https://dazzling-taiyaki-e52114.netlify.app)
 
 ## My process
 
