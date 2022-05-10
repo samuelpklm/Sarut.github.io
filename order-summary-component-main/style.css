@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'spartan', sans-serif;
+    background: url(./images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-color: rgb(224, 232, 255);
+   
+}
+
+
+.attribution {
+     font-size: 11px; text-align: center;
+     }
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.cartita{
+    border: 0 !important;
+    border-radius: 15px;
+}
+
+.frontera-img{
+   border-end-end-radius: 0px;
+   border-start-end-radius: 0px;
+   border-top-right-radius: 12px;
+   border-top-left-radius: 12px;
+   margin-bottom: 36px;
+}
+
+
+.card-text{
+    text-align: center;
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+
+.price{
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: rgb(248, 249, 254);
+    border-radius: 10px;
+    border: 0px;
+}
+
+.precio{
+    font-size: 13px;
+}
+
+button{
+    font-size: 13px !important;
+    margin-bottom: 20px;
+    background-color: rgb(56, 42, 225) !important;
+    border: 0 !important;
+}
+.btn-link{
+    text-decoration-line: none !important;
+}
+
+
+.cancelar{
+    color: rgb(125, 136, 164);
+}
+
+.cancelar:hover{
+    color: rgb(0, 0, 0);
+}
+
+button:hover{
+    background-color: rgb(118, 108, 241) !important;
+}
+
+.cancelar{
+    font-size: 13px;
+}
+
+
+.change{
+    font-size: 13px;
+}
+
+a:hover{
+    text-decoration-line: none !important;
+}
+
+.card-title{
+    margin-bottom: 20px;
+}
+
+@media only screen and (min-width: 1200px){
+    .attribution {
+        position: fixed;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        z-index: 1030;
+    }
+}
+
+@media only screen and (min-width: 1000px){
+    .container{
+        height: 100vh !important;
+      
+      
+    }
+}
