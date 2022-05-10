@@ -1,0 +1,129 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgb(13, 26, 45) !important;
+}
+
+.container{
+    max-width: 1440px;
+    height: 100vh;
+    margin: auto;
+    border: 1px solid;
+
+}
+
+.card{
+    background-color: rgb(21, 39, 63) !important;
+    border: 0 !important;
+    box-shadow: 14px 30px 0px 0px rgb(12, 23, 41), -14px 30px 0px 0px rgb(12, 23, 41),
+                0px 30px 0px 0px rgb(12, 23, 41), 14px -30px 0px 0px rgb(12, 23, 41), 
+                -14px -30px 0px 0px rgb(12, 23, 41);
+    margin: 1rem;
+   
+
+}
+
+.cover-small{
+    max-width: 220px;
+    height: 218px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 3%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+}
+
+.cover-small:hover{
+    background-color: rgba(24, 247, 246, 0.60) !important;
+    background-blend-mode:soft-light, lighten; 
+    background-image: url(./images/image-equilibrium.jpg),url(./images/icon-view.svg) !important;
+    background-position: center, center;
+    
+    background-size: 220px, 34px;
+    background-repeat: no-repeat;
+}
+
+.titulo{
+    font-size: 14px;
+    font-family: Arial;
+}
+
+a{
+    text-decoration: none !important;
+    color: white !important;
+}
+
+.jules:hover{
+    color: rgb(24, 247, 246) !important;
+}
+
+.titulo:hover{
+    color: rgb(24, 247, 246) !important;
+}
+
+.card-text{
+    max-width: 202px;
+    font-size: 10px;
+    font-family: sans-serif;
+    color: rgb(129, 152, 183) !important;
+}
+
+.etherium{
+    font-size: 10px;
+    margin-right: 2rem;
+    color: rgb(38, 242, 244);
+    font-family: Arial;
+}
+
+
+
+.dias{
+    font-size: 10px;
+    color: rgb(94, 117, 151);
+    font-family: Arial;
+}
+
+.linea{
+    max-width: 214px;
+    height: 2px;
+    background: rgb(30, 48, 72);
+    margin-left: 18px;
+    margin-right: 18px;
+    margin-bottom: 10px;
+}
+
+.avatar{
+    height: 25px;
+    margin-left: 18px;
+}
+
+.text-avatar{
+    font-size: 10px;
+    color: rgb(115, 139, 173);
+}
+
+.card-footers{
+    margin-bottom: 10px;
+    font-size: 10px;
+    font-family: Arial;
+}
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a {
+     color: hsl(228, 45%, 44%); 
+    }
+
+@media only screen and (max-width: 400px){
+
+    .card{
+        margin-top: 7rem;
+    }
+}
