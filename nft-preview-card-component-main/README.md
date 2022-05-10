@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution NFT cards](https://your-solution-url.com)
-- Live Site URL: [NFT cards](https://your-live-site-url.com)
+- Solution URL: [Solution NFT cards](https://github.com/samuelpklm/Sarut.github.io/edit/main/nft-preview-card-component-main/)
+- Live Site URL: [NFT cards](https://inspiring-semolina-71566e.netlify.app)
 
 ## My process
 
