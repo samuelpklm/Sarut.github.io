@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Order summary](https://github.com/samuelpklm/Sarut.github.io/edit/main/order-summary-component-main)
+- Live Site URL: [Order summary](https://stellular-syrniki-0f4417.netlify.app/)
 
 ## My process
 
