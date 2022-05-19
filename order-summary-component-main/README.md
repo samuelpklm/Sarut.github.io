@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution order summary](https://github.com/samuelpklm/Sarut.github.io/edit/main/order-summary-component-main)
+- Live Site URL: [order summary](https://leafy-liger-5c289d.netlify.app/)
 
 ## My process
 
